@@ -106,6 +106,7 @@ body {
     }
     .containe {
         width: 100%;
+        padding: 0rem 2rem;
     }
     .app {
         flex-direction: column;
@@ -123,6 +124,7 @@ body {
     }
     .containe {
         width: 100%;
+        padding: 0rem 2rem;
     }
     .app {
         flex-direction: column;
